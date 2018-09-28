@@ -5,6 +5,6 @@ namespace HoofEnums.Games.Small
     public enum Pheasant
     {
         [Description("Bażant")]
-        Pheasant = 1
+        Pheasant = 42
     }
 }

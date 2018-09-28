@@ -5,6 +5,6 @@ namespace HoofEnums.Games.Big
     public enum Boar
     {
         [Description("Dzik")]
-        Boar = 1
+        Boar = 29
     }
 }

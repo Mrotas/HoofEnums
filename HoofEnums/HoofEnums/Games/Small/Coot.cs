@@ -5,6 +5,6 @@ namespace HoofEnums.Games.Small
     public enum Coot
     {
         [Description("Łyska")]
-        Coot = 1
+        Coot = 53
     }
 }

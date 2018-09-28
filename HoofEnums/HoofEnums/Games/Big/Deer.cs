@@ -5,12 +5,12 @@ namespace HoofEnums.Games.Big
     public enum Deer
     {
         [Description("Byk")]
-        Bull = 1,
+        Bull = 14,
 
         [Description("Łania")]
-        Doe = 2,
+        Doe = 15,
 
         [Description("Cielę")]
-        Calf = 3
+        Calf = 16
     }
 }

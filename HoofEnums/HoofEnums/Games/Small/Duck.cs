@@ -5,15 +5,15 @@ namespace HoofEnums.Games.Small
     public enum Duck
     {
         [Description("Krzyżówka")]
-        Hybrid = 1,
+        Hybrid = 47,
 
         [Description("Cyraneczka")]
-        Teal = 2,
+        Teal = 48,
 
         [Description("Głowienka")]
-        Brand = 3,
+        Brand = 49,
 
         [Description("Czernica")]
-        Blackberry = 4
+        Blackberry = 50
     }
 }

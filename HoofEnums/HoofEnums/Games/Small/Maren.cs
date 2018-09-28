@@ -5,9 +5,9 @@ namespace HoofEnums.Games.Small
     public enum Maren
     {
         [Description("Tumak")]
-        Maren = 1,
+        Maren = 33,
 
         [Description("Kamionka")]
-        Kamionka = 2
+        Kamionka = 34
     }
 }

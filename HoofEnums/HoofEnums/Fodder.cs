@@ -5,15 +5,15 @@ namespace HoofEnums
     public enum Fodder
     {
         [Description("Sucha")]
-        Dry = 1,
+        Dry = 7,
 
         [Description("Soczysta")]
-        Juicy = 2,
+        Juicy = 8,
 
         [Description("Treściwa")]
-        Pithy = 3,
+        Pithy = 9,
 
         [Description("Sól")]
-        Salt = 4
+        Salt = 10
     }
 }

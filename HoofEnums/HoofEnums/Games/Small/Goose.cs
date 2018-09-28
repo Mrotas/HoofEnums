@@ -5,12 +5,12 @@ namespace HoofEnums.Games.Small
     public enum Goose
     {
         [Description("Gęgawa")]
-        Greylag = 1,
+        Greylag = 44,
 
         [Description("Zbożowy")]
-        Grains = 2,
+        Grains = 45,
 
         [Description("Białoczelny")]
-        Albatross = 3
+        Albatross = 46
     }
 }

@@ -4,7 +4,7 @@ namespace HoofEnums.Games.Small
 {
     public enum HazelGrouse
     {
-        [Description("Jastrząbek")]
-        HazelGrouse = 1
+        [Description("Jarząbek")]
+        HazelGrouse = 41
     }
 }

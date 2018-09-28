@@ -5,12 +5,12 @@ namespace HoofEnums.Games.Big
     public enum Moose
     {
         [Description("Byk")]
-        Bull = 1,
+        Bull = 11,
 
         [Description("Klępa")]
-        Mare = 2,
+        Mare = 12,
 
         [Description("Łoszak")]
-        Calf = 3
+        Calf = 13
     }
 }

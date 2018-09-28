@@ -5,6 +5,6 @@ namespace HoofEnums.Games.Small
     public enum Partridge
     {
         [Description("Kuropatwa")]
-        Partridge = 1
+        Partridge = 43
     }
 }

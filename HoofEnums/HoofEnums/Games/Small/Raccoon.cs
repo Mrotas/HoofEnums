@@ -5,6 +5,6 @@ namespace HoofEnums.Games.Small
     public enum Raccoon
     {
         [Description("Szop pracz")]
-        Raccoon = 1
+        Raccoon = 37
     }
 }

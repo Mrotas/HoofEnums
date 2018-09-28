@@ -5,6 +5,6 @@ namespace HoofEnums.Games.Small
     public enum Muskart
     {
         [Description("Piżmak")]
-        Muskart = 1
+        Muskart = 38
     }
 }

@@ -5,12 +5,12 @@ namespace HoofEnums.Games.Big
     public enum Mouflon
     {
         [Description("Tryk")]
-        Ram = 1,
+        Ram = 26,
 
         [Description("Owca")]
-        Sheep = 2,
+        Sheep = 27,
 
         [Description("Jagnię")]
-        Lamb = 3
+        Lamb = 28
     }
 }

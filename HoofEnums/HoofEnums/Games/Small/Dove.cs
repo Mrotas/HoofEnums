@@ -5,6 +5,6 @@ namespace HoofEnums.Games.Small
     public enum Dove
     {
         [Description("Gołąb grzywacz")]
-        Dove = 1
+        Dove = 51
     }
 }

@@ -5,12 +5,12 @@ namespace HoofEnums.Games.Big
     public enum Roe
     {
         [Description("Kozioł")]
-        Roebuck = 1,
+        Roebuck = 23,
 
         [Description("Koza")]
-        Goat = 2,
+        Goat = 24,
 
         [Description("Koźlę")]
-        Goatling = 3
+        Goatling = 25
     }
 }
